@@ -1,6 +1,6 @@
 {
-  "homepage": "http://jstatus1.github.io/Algorithm-Visualizer",
   "name": "algorithm-visualizer",
+  "homepage": "https://jstatus1.github.io/Algorithm-Visualizer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
