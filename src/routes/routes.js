@@ -6,6 +6,7 @@ import Home from '../Home/Home'
 
 //Algorithm Page
 import SortingVisualizer from '../SortingVisualizer/SortingVisualizer'
+import PathFindingVisualizer from '../PathfindingVisualizer/PathfindingVisualizer'
 
 const SortingAlgorithmRoute = ({ match }) => (
     <div>
@@ -18,6 +19,7 @@ let Routes = () => {
         <BrowserRouter>
             <Route exact path="/" component={Home}/>
             <Route exact path="/sorting" component={SortingAlgorithmRoute}/>
+            <Route exact path="/pathfinding" component={PathFindingVisualizer}/>
         </BrowserRouter>
     </div>)
 }
