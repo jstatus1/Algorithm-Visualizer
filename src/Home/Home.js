@@ -10,6 +10,8 @@ class Home extends React.Component
             <h1>WELCOME TO THE HOME OF VISUALIZED ALGORITHMS</h1>
             <Link to="/sorting"><button type="button" class="btn btn-primary">Sorting Algorithms</button></Link>
             <Link to="/pathfinding"><button type="button" class="btn btn-primary">Path Finding Algorithms</button></Link>
+            <Link to="/heaps"><button type="button" class="btn btn-primary">Heaps Algorithms</button></Link>
+            <Link to="/svg"><button type="button" class="btn btn-primary">SVG</button></Link>
         </div>)
     }
 }

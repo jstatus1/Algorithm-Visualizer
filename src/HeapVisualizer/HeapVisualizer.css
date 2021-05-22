@@ -1,0 +1,15 @@
+#viz {
+  width: 100%;
+  text-align: center;
+  overflow: hidden;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+.circle {
+  height: 50px;
+  width: 50px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}

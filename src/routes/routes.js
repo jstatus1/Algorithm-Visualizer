@@ -7,6 +7,8 @@ import Home from '../Home/Home'
 //Algorithm Page
 import SortingVisualizer from '../SortingVisualizer/SortingVisualizer'
 import PathFindingVisualizer from '../PathfindingVisualizer/PathfindingVisualizer'
+import HeapVisualizer from '../HeapVisualizer/HeapVisualizer'
+import SVG from '../SVG/svg'
 
 const SortingAlgorithmRoute = ({ match }) => (
     <div>
@@ -20,6 +22,8 @@ let Routes = () => {
             <Route exact path="/" component={Home}/>
             <Route exact path="/sorting" component={SortingAlgorithmRoute}/>
             <Route exact path="/pathfinding" component={PathFindingVisualizer}/>
+            <Route exact path="/heaps" component={HeapVisualizer}/>
+            <Route exact path="/SVG" component={SVG}/>
         </BrowserRouter>
     </div>)
 }
