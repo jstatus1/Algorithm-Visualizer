@@ -20,6 +20,7 @@ let Routes = () => {
     return (<div>
         <BrowserRouter>
             <Route exact path="/" component={Home}/>
+            <Route exact path="/Algorithm-Visualizer" component={Home}/>
             <Route exact path="/sorting" component={SortingAlgorithmRoute}/>
             <Route exact path="/pathfinding" component={PathFindingVisualizer}/>
             <Route exact path="/heaps" component={HeapVisualizer}/>
