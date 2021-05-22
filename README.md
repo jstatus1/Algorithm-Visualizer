@@ -19,7 +19,7 @@ Summary: This is a tool to help visualize the different famous algorithms learne
 # Shoutouts:
 These are the repositories and links that have guided me through my education process. 
 Big shout out to:
-[Algo Expert](https://www.algoexpert.io/)
-[Path Finding Repository](https://github.com/clementmihailescu/Pathfinding-Visualizer)
-[Sorting Algorithm Repository](https://github.com/clementmihailescu/Sorting-Visualizer)
-[VisualAlgo.en](https://visualgo.net/en)
+* [Algo Expert](https://www.algoexpert.io/)
+* [Path Finding Repository](https://github.com/clementmihailescu/Pathfinding-Visualizer)
+* [Sorting Algorithm Repository](https://github.com/clementmihailescu/Sorting-Visualizer)
+* [VisualAlgo.en](https://visualgo.net/en)
